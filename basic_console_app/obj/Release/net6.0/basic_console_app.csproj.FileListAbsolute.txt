@@ -1,0 +1,15 @@
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\bin\Release\net6.0\basic_console_app.exe
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\bin\Release\net6.0\basic_console_app.deps.json
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\bin\Release\net6.0\basic_console_app.runtimeconfig.json
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\bin\Release\net6.0\basic_console_app.dll
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\bin\Release\net6.0\basic_console_app.pdb
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.AssemblyInfo.cs
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.dll
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\refint\basic_console_app.dll
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.pdb
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\basic_console_app.genruntimeconfig.cache
+C:\Users\jorge\source\repos\dotnet_tutorials\basic_console_app\obj\Release\net6.0\ref\basic_console_app.dll
