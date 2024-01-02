@@ -10,7 +10,7 @@ namespace CalculatorProgram
             // Display title as the C# console calculator app.
             Console.WriteLine("Console Calculator in C#\r");
             Console.WriteLine("------------------------\n");
-
+            Calculator calculator = new Calculator();
             while (!endApp)
             {
                 // Declare variables and set to empty.
@@ -52,7 +52,6 @@ namespace CalculatorProgram
 
                 try
                 {
-                    Calculator calculator = new Calculator();
                     result = calculator.DoOperation(cleanNum1, cleanNum2, op);
                     if (double.IsNaN(result))
                     {
@@ -73,6 +72,7 @@ namespace CalculatorProgram
 
                 Console.WriteLine("\n"); // Friendly linespacing.
             }
+            calculator.Finish();
             return;
         }
     }
